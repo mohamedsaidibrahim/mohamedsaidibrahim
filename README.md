@@ -1,5 +1,3 @@
-Here's the adjusted content for your `mohamedsaidibrahim/README.md`:
-
 - 👋  Hi, I’m @mohamedsaidibrahim
 
       
@@ -40,11 +38,3 @@ Bio: Experienced in test automation with strong problem-solving skills and ISTQB
 Beyond automation, I bring a passion for mobile development with extensive experience building successful Flutter projects. My proficiency in Dart and mastery of the Flutter framework allow me to craft intuitive user experiences. I am comfortable interacting with various databases (SQL Lite) and Firebase services (Firestore, Authentication, Cloud Functions) while seamlessly connecting with APIs. 
 
 As an excellent communicator with a keen eye for detail and strong time management skills, I thrive in collaborative environments utilizing Agile and Scrum methodologies. I am a motivated team player who excels at analytical problem-solving and is proficient in version control systems and CI/CD processes.
-
-
-**Things to update:**
-
-* Replace the bracketed sections with your specific information (contact details and pronouns).
-* Consider adding your preferred contact information like email address or LinkedIn profile URL.
-
-This adjusted bio highlights your expertise in both test automation and Flutter development. It showcases your skills, experience, and passion for these areas, making it a great introduction for potential collaborators or employers.
